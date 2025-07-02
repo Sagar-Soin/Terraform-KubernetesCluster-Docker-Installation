@@ -15,6 +15,6 @@ terraform {
 
 
 provider "aws" {
-  profile = "vaws"
+#  profile = "vaws"
   region  = "ap-south-1"
 }
